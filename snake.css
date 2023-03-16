@@ -1,0 +1,14 @@
+#game-board {
+    border: 1px solid black;
+    width: 240px;
+    height: 240px;
+  }
+  #reset-button {
+        padding: 10px 20px;
+        margin: 10px 0;
+        background-color: lightgray;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+  
